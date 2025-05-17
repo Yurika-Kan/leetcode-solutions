@@ -1,7 +1,7 @@
 # Last updated: 5/16/2025, 8:41:07 PM
 '''
 Time Complexity: O(n)
-Space Complexity: O(1?
+Space Complexity: O(n)
 '''
 
 class Solution:
