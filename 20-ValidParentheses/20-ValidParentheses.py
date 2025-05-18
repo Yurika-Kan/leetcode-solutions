@@ -1,4 +1,7 @@
-# Last updated: 5/18/2025, 1:46:45 PM
+# Last updated: 5/18/2025, 1:47:07 PM
+#Time Complexity: O(n)
+#Space Complexity: O(n)
+
 class Solution:
     def isValid(self, s: str) -> bool:
         # check if string contains open to close 
@@ -17,7 +20,6 @@ class Solution:
 
         return len(opens) == 0
 
-        #Time Complexity: O(n)
-        #Space Complexity: O(n)
+        
 
                 
