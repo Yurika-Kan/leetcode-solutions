@@ -1,4 +1,4 @@
-# Last updated: 5/18/2025, 1:45:53 PM
+# Last updated: 5/18/2025, 1:46:45 PM
 class Solution:
     def isValid(self, s: str) -> bool:
         # check if string contains open to close 
@@ -16,4 +16,8 @@ class Solution:
                 opens.append(charac)
 
         return len(opens) == 0
+
+        #Time Complexity: O(n)
+        #Space Complexity: O(n)
+
                 
