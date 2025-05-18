@@ -1,12 +1,15 @@
-# Last updated: 5/18/2025, 1:33:54 PM
+# Last updated: 5/18/2025, 2:06:04 PM
 class MinStack:
-    # initializes stacks 
+    # stack + min tracking stack 
+
+    # initializes stacks using lists 
     def __init__(self):
         self.stack = []
         self.minstack = []
 
-    # pushes element val onto stack - append
+    # push val onto stack - append
     def push(self, val: int) -> None:
+        # append min val btwn prev min + curr val
         self.minstack.append(
             # min of prefix min val & curr val 
             min(val, 
@@ -15,20 +18,21 @@ class MinStack:
                     if self.minstack else val))
         self.stack.append(val)
 
-    # removes element on top of stack - pop
+    # removes element on top of stacks - pop
     def pop(self) -> None:
         self.minstack.pop()
         self.stack.pop()
 
-    # gets top element of stack - read
+    # gets top element of stack - read & return
     def top(self) -> int:
         return self.stack[-1]
 
-    # find min of stack 
+    # find min of stack - get min stack top val 
     def getMin(self) -> int:
         return self.minstack[-1]
 
-
+# Time Complexity: O(1)
+# Space Complexity: O(n)
 
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()
