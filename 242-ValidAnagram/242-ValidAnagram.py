@@ -1,4 +1,4 @@
-# Last updated: 5/18/2025, 2:19:12 PM
+# Last updated: 5/18/2025, 2:20:26 PM
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         #check if s and t contain same letter makeup
