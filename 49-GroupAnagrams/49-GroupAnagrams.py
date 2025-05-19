@@ -1,4 +1,4 @@
-# Last updated: 5/18/2025, 6:26:37 PM
+# Last updated: 5/18/2025, 6:28:26 PM
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         # freq map         
@@ -16,5 +16,7 @@ class Solution:
         # return each value of map in list 
         return list(freqMap.values())
 
+# n - strs 
+# k = sorted s
 # Time Complexity: O(nklogn)
-# Space Complexity: O()
+# Space Complexity: O(n*k)
