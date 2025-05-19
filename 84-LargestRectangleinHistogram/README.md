@@ -1,4 +1,4 @@
-![Screenshot 2025-05-18 at 7 40 17 PM](https://github.com/user-attachments/assets/105858f0-ea5e-4eeb-8e10-92830a6ecc9f)Given an array of integers heights representing the histogram's bar height where the width of each bar is 1, return the area of the largest rectangle in the histogram.
+Given an array of integers heights representing the histogram's bar height where the width of each bar is 1, return the area of the largest rectangle in the histogram.
 
  
 Example 1:
