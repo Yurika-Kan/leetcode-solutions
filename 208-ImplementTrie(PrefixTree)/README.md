@@ -1,6 +1,7 @@
 A trie (pronounced as "try") or prefix tree is a tree data structure used to efficiently store and retrieve keys in a dataset of strings. There are various applications of this data structure, such as autocomplete and spellchecker.
 
-![image.png](attachment:eac9b935-4401-447c-9b84-09e2417fe764:image.png)
+<img width="300" height="312" alt="image" src="https://github.com/user-attachments/assets/3ee87249-4358-4d59-aa3f-5360fc64ef1d" />
+
 
 Implement the Trie class:
 
