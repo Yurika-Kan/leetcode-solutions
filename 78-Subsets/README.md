@@ -1,5 +1,13 @@
 Given an integer array nums of unique elements, return all possible subsets (the power set).
+- all solutions/ all subsets
+- binary tree of choices
 
+<img width="600" height="249" alt="image" src="https://github.com/user-attachments/assets/2c3f8aa8-9bed-4d7c-9fd0-26e203db6d16" />
+
+1. make decision 
+2. recurse
+3. base case
+4. undo decision
 The solution set must not contain duplicate subsets. Return the solution in any order.
 
  
