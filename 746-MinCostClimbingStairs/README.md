@@ -3,6 +3,11 @@ You are given an integer array cost where cost[i] is the cost of ith step on a s
 You can either start from the step with index 0, or the step with index 1.
 
 Return the minimum cost to reach the top of the floor.
+<img width="640" height="326" alt="image" src="https://github.com/user-attachments/assets/38e59e9e-1805-4d79-87aa-c90fa87a4b1a" />
+
+https://www.geeksforgeeks.org/dsa/minimum-cost-to-reach-the-top-of-the-floor-by-climbing-stairs/
+
+https://www.youtube.com/watch?v=ktmzAZWkEZ0?rel=0
 
  
 Example 1:
