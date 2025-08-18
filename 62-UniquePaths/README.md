@@ -1,10 +1,13 @@
 There is a robot on an m x n grid. The robot is initially located at the top-left corner (i.e., grid[0][0]). The robot tries to move to the bottom-right corner (i.e., grid[m - 1][n - 1]). The robot can only move either down or right at any point in time.
 
+
+
 Given the two integers m and n, return the number of possible unique paths that the robot can take to reach the bottom-right corner.
 
 The test cases are generated so that the answer will be less than or equal to 2 * 109.
+<img width="482" height="314" alt="Screenshot 2025-08-18 at 2 58 59 PM" src="https://github.com/user-attachments/assets/402e5831-a0b0-42c2-830d-d873faf443eb" />
 
- 
+
 Example 1:
 
 Input: m = 3, n = 7
