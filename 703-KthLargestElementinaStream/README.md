@@ -2,6 +2,8 @@ You are part of a university admissions office and need to keep track of the kth
 
 You are tasked to implement a class which, for a given integer k, maintains a stream of test scores and continuously returns the kth highest test score after a new score has been submitted. More specifically, we are looking for the kth highest score in the sorted list of all scores.
 
+<img width="338" height="195" alt="image" src="https://github.com/user-attachments/assets/53454287-e1ec-4035-977b-287b89d1205b" />
+
 Implement the KthLargest class:
 
 
