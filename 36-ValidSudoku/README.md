@@ -5,13 +5,14 @@ Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be 
 	Each column must contain the digits 1-9 without repetition.
 	Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition.
 
-
 Note:
 
 
 	A Sudoku board (partially filled) could be valid but is not necessarily solvable.
 	Only the filled cells need to be validated according to the mentioned rules.
 
+
+<img width="465" height="281" alt="Screenshot 2025-08-22 at 11 36 12 AM" src="https://github.com/user-attachments/assets/1d4072bf-d27e-4162-912e-6872a57cb32f" />
 
  
 Example 1:
