@@ -2,7 +2,8 @@ Given an unsorted array of integers nums, return the length of the longest conse
 
 You must write an algorithm that runs in O(n) time.
 
- 
+<img width="494" height="195" alt="Screenshot 2025-08-22 at 12 47 37 PM" src="https://github.com/user-attachments/assets/05c10275-baac-4547-a61c-9a167a47d2ca" />
+
 Example 1:
 
 Input: nums = [100,4,200,1,3,2]
