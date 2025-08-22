@@ -4,7 +4,8 @@ The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit int
 
 You must write an algorithm that runs in O(n) time and without using the division operation.
 
- 
+<img width="546" height="460" alt="Screenshot 2025-08-21 at 6 28 39 PM" src="https://github.com/user-attachments/assets/ebcab75c-86aa-4eae-8e78-25024fb94d9f" />
+
 Example 1:
 Input: nums = [1,2,3,4]
 Output: [24,12,8,6]
