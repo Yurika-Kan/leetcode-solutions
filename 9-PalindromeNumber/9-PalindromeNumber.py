@@ -1,4 +1,4 @@
-# Last updated: 10/11/2025, 1:45:02 PM
+# Last updated: 10/11/2025, 1:45:51 PM
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         # Understand: given an int, return true / false if it reads same forwards & backwards
@@ -24,6 +24,7 @@ class Solution:
         # return strX == ''.join(reversed(strX))
         #return strX == list(reversed(strX))
 
+        # no string conversion implementation
         if x < 0: 
             return False
         
