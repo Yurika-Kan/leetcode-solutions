@@ -2,7 +2,9 @@ You are climbing a staircase. It takes n steps to reach the top.
 
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
- 
+<img width="400" height="300" alt="Screenshot 2025-10-25 at 4 43 03 PM" src="https://github.com/user-attachments/assets/e9e30576-f15c-4f66-90d2-ffec3933a366" />
+
+ 
 Example 1:
 
 Input: n = 2
