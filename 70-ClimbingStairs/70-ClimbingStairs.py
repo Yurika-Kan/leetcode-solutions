@@ -1,4 +1,4 @@
-# Last updated: 10/25/2025, 4:46:43 PM
+# Last updated: 10/25/2025, 4:46:46 PM
 class Solution:
     def climbStairs(self, n: int) -> int:
         # Understand: given an int, return the amt of choices of steps i can take to climb these
