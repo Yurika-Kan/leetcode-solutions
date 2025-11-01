@@ -1,4 +1,4 @@
-# Last updated: 11/1/2025, 4:58:44 PM
+# Last updated: 11/1/2025, 5:23:04 PM
 class Solution:
     def mostCommonWord(self, para: str, ban: List[str]) -> str:
         s = "".join([i.lower() if i.isalnum() else ' ' for i in para])
