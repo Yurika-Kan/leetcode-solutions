@@ -1,4 +1,4 @@
-# Last updated: 8/20/2025, 4:46:19 PM
+# Last updated: 11/2/2025, 4:57:00 AM
 class KthLargest:
 
     def __init__(self, k: int, nums: List[int]):
